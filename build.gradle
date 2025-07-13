@@ -22,4 +22,4 @@ run {
     standardInput = System.in
 }
 
-mainClassName = 'com.csc.CheeseAnalyzer'
+mainClassName = 'com.csc.Main'
